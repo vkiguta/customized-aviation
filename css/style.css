@@ -1041,8 +1041,8 @@ header.header-scroll .logo-strong {
   margin-top: 43px
 }
 .s-info-bg {
-  padding: 166px 0 180px;
-  min-height: 776px;
+  padding: 50px 0 50px;
+  min-height: 546px;
   background-image: url(../img/info-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
