@@ -1935,7 +1935,7 @@ footer .soc-link {
   padding: 50px 0
 }
 .contacts-top.about-top {
-  padding: 50px 0 166px
+  padding: 50px 0 60px
 }
 .about-top-cover {
   align-items: center
@@ -4158,7 +4158,7 @@ blockquote:before {
     padding: 20px 0
   }
   .about-top {
-    padding: 96px 0 110px
+    padding: 30px 0 50px
   }
   .about-img {
     display: none
