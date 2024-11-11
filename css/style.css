@@ -194,8 +194,8 @@ h6 {
 }
 .title-line-left {
   position: relative;
-  padding-bottom: 12px;
-  margin-bottom: 20px
+  padding-bottom: 6px;
+  
 }
 .title-line-left:before {
   content: "";
@@ -806,7 +806,7 @@ header.header-scroll .logo-strong {
 }
 .title-left {
   text-align: left;
-  margin-bottom: 20px
+  margin-bottom: 30px;
 }
 .title-left:before {
   left: 0;
@@ -3929,7 +3929,7 @@ blockquote:before {
   .price-info .price,
   .price-info .title-left,
   .single-price {
-    margin-bottom: 30px
+    margin-bottom: 10px
   }
   .about-cont {
     padding-top: 10px
